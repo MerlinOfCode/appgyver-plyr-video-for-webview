@@ -12,7 +12,7 @@ else {var thumb = paramValue.replace(".webm", ".png");
 }; */
 
 //const thumbnail = thumb;
-const paramValue = "https://res.cloudinary.com/wikacy-com/video/upload/q_auto/v1651114173/promos/superior-rahil-boobaram-visualization_hxtxv0.mp4"
+const paramValue = "https://res.cloudinary.com/wikacy-com/video/upload/v1651886910/reels/i1hgz16jljnkv2xr3alb.mp4"
 
 class PlyrComponent extends React.Component {
   componentDidMount() {
