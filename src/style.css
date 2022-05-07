@@ -1,0 +1,27 @@
+h1, p {
+  font-family: Lato;
+}
+
+ html {
+     background-color: #000000;
+     padding:0px;
+     width: 100%;
+}
+
+body{
+  padding: 0px;
+  margin: 0px;
+}
+
+#sprite-plyr {
+
+  width: 100%;
+  padding: 0px;
+}
+
+.plyr--video {
+  background: #000;
+  overflow: hidden;  
+  width: 100%    !important;
+  height: auto   !important;
+}
