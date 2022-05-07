@@ -3,16 +3,12 @@ import PropTypes from 'prop-types'
 import plyr from 'plyr'
 import 'plyr/dist/plyr.css'
 
-/*const params = new URLSearchParams(window.location.search);
+const params = new URLSearchParams(window.location.search);
 const paramValue = params.get("url");
-if(paramValue. indexOf(".mp4") !== -1){
-  var thumb = paramValue.replace(".mp4", ".png");
-  }
-else {var thumb = paramValue.replace(".webm", ".png");
-}; */
+
 
 //const thumbnail = thumb;
-const paramValue = "https://res.cloudinary.com/wikacy-com/video/upload/v1651886910/reels/i1hgz16jljnkv2xr3alb.mp4"
+//const paramValue = "https://res.cloudinary.com/wikacy-com/video/upload/v1651886910/reels/i1hgz16jljnkv2xr3alb.mp4"
 
 class PlyrComponent extends React.Component {
   componentDidMount() {
